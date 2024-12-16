@@ -33,8 +33,6 @@ def add(a: int, b: int):
         "result": a + b,
     }
     
-  
-
     
 #запуск приложения    
 if __name__ == '__main__': 
